@@ -1,0 +1,71 @@
+.profile {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.808);
+  padding: 1.5rem;
+  background-color: cornsilk;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h4 {
+  color: brown;
+}
+
+h2 {
+  color: brown;
+}
+
+h1 {
+  color: rgba(255, 94, 0, 0.938);
+}
+
+.about-me {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.808);
+  padding: 1.5rem;
+  background-color: cornsilk;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.about-me h2 {
+  color: brown;
+}
+
+.skills {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.808);
+  padding: 1.5rem;
+  background-color: cornsilk;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.skills h2 {
+  color: brown;
+}
+
+.contact {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.808);
+  padding: 1.5rem;
+  background-color: cornsilk;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.contact h2 {
+  color: brown;
+}
+
+#btn {
+  background-color: cornsilk;
+}
+
+a {
+  color: brown;
+}
+
+html {
+  margin-left: 0.7rem;
+  margin-right: 0.7rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border: solid salmon;
+}
